@@ -26,6 +26,9 @@
                 "Mid": [
                     { "vidId": "EgZ39cjAJuM", "spot": "Mid Market from A Main" },
                     { "vidId": "yYydSJ-yJfA", "spot": "Mid Market from A Lobby" }
+                ],
+                "Other": [
+                    { "vidId": "xZIrjwk2Trg", "spot": "Mid Market from B Main" },
                 ]
             }
         }
