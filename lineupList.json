@@ -31,6 +31,15 @@
                     { "vidId": "xZIrjwk2Trg", "spot": "Mid Market from B Main" },
                 ]
             }
-        }
+        },
+        "Breeze": {
+            "firstAbility": {
+                "name": "FRAG/ment",
+                "A": [
+                    { "vidId": "EgZ39cjAJuM", "spot": "A Default from A Main" },
+                    { "vidId": "yYydSJ-yJfA", "spot": "A Default from A Lobby" }
+                ]
+            }
+        },
     }
 }
