@@ -10,7 +10,7 @@ const app = (0, express_1.default)();
 const PORT = 3001;
 app.use(express_1.default.json());
 console.log((_a = require.main) === null || _a === void 0 ? void 0 : _a.filename);
-app.get('/', (_req, res) => {
+app.get('/lineups', (_req, res) => {
     res.json(lineupList_1.default);
 });
 app.listen(PORT, () => {
